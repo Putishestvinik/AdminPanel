@@ -1,5 +1,5 @@
 # AdminPanel
-<h1>C++ Work | Test system</h1>
+<h1>C++ | Test system</h1>
 <br>
 <br>
 For watch result:
